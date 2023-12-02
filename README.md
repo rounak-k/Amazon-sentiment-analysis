@@ -1,5 +1,5 @@
 # Amazon Review Sentiment Analysis 
-_November 2022_  |  _Harsh Tandiya_
+
 
 In this project, the idea is to extract the reviews of any amazon product and perform sentiment analysis over it. This can help determine how the customers are feelings 
 
